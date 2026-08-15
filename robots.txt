@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ehly64.yume-maboroshi.com/sitemap.xml
